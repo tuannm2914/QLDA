@@ -3,6 +3,9 @@ https://docs.google.com/presentation/d/1yIIvUEmT4lVRKlS_MeGjlU55wPGNYNwK-x6yPMdp
 
 <h2>Cài đặt</h2><br>
 
+Vì data lớn ko thể upload.bạn có thể tải bộ datasets :
+https://www.kaggle.com/deadskull7/fer2013
+
 <h3>Yêu cầu<h3>
   <ul>
     <li>Python >= 3.6</li>
