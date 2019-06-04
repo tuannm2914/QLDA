@@ -1,5 +1,5 @@
-# QLDA
-mini project for PM class
+<h1>Slide cho dự án</h1>
+https://docs.google.com/presentation/d/1yIIvUEmT4lVRKlS_MeGjlU55wPGNYNwK-x6yPMdpXZk/edit?usp=sharing
 
 <h2>Cài đặt</h2><br>
 
